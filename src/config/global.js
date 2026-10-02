@@ -311,7 +311,7 @@ export default {
     {
       referencia:
         'Agriavi (2018). Termonebulizador H600. Manual de instrucción. Agriavi. ',
-      link: 'http://www.agriavi.com/pdf/Termo%20H600%20Manual%20Esp.pdf',
+      link: '',
     },
     {
       referencia:
@@ -352,7 +352,7 @@ export default {
       referencia:
         'Ministerio de Agricultura y Desarrollo Rural. (2020). Resolución número 136 de 2020. “Por la cual se adopta el Manual de Condiciones de Bienestar Animal propias de cada una de las especies de producción en el sector Agropecuario para las especies équidas, porcinas, ovinas y caprinas”. Ministerio de Agricultura y Desarrollo Rural. ',
       link:
-        'https://www.minagricultura.gov.co/Normatividad/Resoluciones/Resoluci%C3%B3n%20No.%20000136%20de%202020.pdf',
+        'https://www.ica.gov.co/areas/pecuaria/servicios/inocuidad-en-las-cadenas-agroalimentarias/bienestar-animal/resol-136-por-la-cual-se-adopta-el-manual-de-c-2.aspx',
     },
     {
       referencia:
@@ -380,8 +380,7 @@ export default {
     {
       referencia:
         'Porkcolombia. (2013). La desinfección en el transporte, factor clave para el control de la diarrea epidémica porcina PEDv. Porkcolombia ',
-      link:
-        'https://porkcolombia.co/wp-content/uploads/2018/05/4.-Bolet%C3%ADn-PED-III-Desinfectantes.pdf',
+      link: '',
     },
     {
       referencia:
